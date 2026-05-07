@@ -1,0 +1,6 @@
+ultralytics>=8.3.0
+easyocr>=1.7.1
+huggingface_hub>=0.23.0
+opencv-python>=4.9.0
+numpy>=1.26.0
+lapx>=0.5.5
